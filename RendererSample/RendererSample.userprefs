@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Droid/RendererSample.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RendererSample/RendererSamplePage.xaml">
+    <Files>
+      <File FileName="RendererSample/RendererSamplePage.xaml" Line="43" Column="69" />
+      <File FileName="RendererSample/Controls/RatingControl.cs" Line="3" Column="34" />
+      <File FileName="RendererSample/RendererSamplePage.xaml.cs" Line="3" Column="25" />
+      <File FileName="RendererSample/Converter/Converters.cs" Line="4" Column="35" />
+      <File FileName="Droid/RatingControlRenderer.cs" Line="61" Column="1" />
+      <File FileName="iOS/RatingControlRenderer.cs" Line="4" Column="13" />
+      <File FileName="iOS/AppDelegate.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RendererSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EA5A1198-3D41-4B8C-86CD-BF646D5B44AC" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RendererSample.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
